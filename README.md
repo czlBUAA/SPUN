@@ -1,0 +1,1 @@
+This is the official implementation of the paper "Deep Learning-Based Attitude Uncertainty Estimation for Non-Cooperative Spacecraft Unit-Dual Quaternion Distributions." The paper is still under review. The code will be improved soon; currently, it's a bit messy.
