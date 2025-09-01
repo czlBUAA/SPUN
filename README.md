@@ -1,1 +1,1 @@
-This is the official implementation of the paper "Deep-learning-based pose uncertainty estimation for noncooperative spacecraft with unit dual quaternion distributions." The paper is still under review. The code will be improved soon; currently, it's a bit messy.
+This is the official implementation of the paper "Deep-learning-based pose uncertainty estimation for noncooperative spacecraft with unit dual quaternion distributions." The paper is still under review. 
